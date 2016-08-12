@@ -1,4 +1,4 @@
-package com.cisco.scala.scala_example
+package com.example.scala.scala_example
 
 /**
  * @author ${user.name}
