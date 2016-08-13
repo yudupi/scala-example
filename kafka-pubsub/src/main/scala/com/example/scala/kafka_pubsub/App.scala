@@ -1,4 +1,4 @@
-package com.example.scala.scala_example
+package com.example.scala.kafka_pubsub
 
 import org.apache.kafka.clients.consumer.ConsumerRecord
 import org.apache.kafka.clients.consumer.ConsumerRecords

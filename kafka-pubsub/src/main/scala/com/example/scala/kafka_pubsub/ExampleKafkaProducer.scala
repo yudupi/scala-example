@@ -1,4 +1,4 @@
-package com.example.scala.scala_example
+package com.example.scala.kafka_pubsub
 
 import java.util.concurrent.Future
 import org.apache.kafka.clients.producer.RecordMetadata
